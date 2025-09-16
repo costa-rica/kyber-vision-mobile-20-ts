@@ -1,6 +1,6 @@
 ![Kyber Vision Mobile Logo](./src/assets/images/multi-use/kyberVisionLogo01.png)
 
-#### v 0.20.0
+#### v 0.20.2
 
 ## Overview
 
